@@ -23,6 +23,13 @@ Cloning this repository should give you the necessary software to begin developm
 $ git clone https://github.com/nguyen-amanda/strong-attractor gravitas
 ```
 
+We use [yarn](https://yarnpkg.com) for dependency management, so once you've cloned the repository you'll need to install yarn. All you need to do once you've installed it is run it in the main directory:
+
+```
+$ cd [wherever you put the repo]
+$ yarn
+```
+
 ## Built With
 
 * [JavaScript](https://www.javascript.com/) - The programming language used
